@@ -12,7 +12,7 @@
 rm -rf thumbnails
 mkdir thumbnails
 
-url_root="https://raw.githubusercontent.com/jonascarpay/Wallpapers/master"
+url_root="https://raw.githubusercontent.com/tomlazar/wallpapers/master"
 
 echo "### Wallpapers" >README.md
 echo "My current wallpaper rotation" >>README.md
